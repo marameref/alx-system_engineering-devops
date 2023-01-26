@@ -30,4 +30,4 @@ Directory Name | Description
 ---|---
 ALX-system_engineering-devops | Shell Scripts
 ## Author
-**Fashina Segun
+**marameref (Amarachi Omereife)

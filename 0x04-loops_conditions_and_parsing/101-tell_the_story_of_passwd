@@ -16,4 +16,3 @@ rides ${fields[6]}. ${fields[2]}'s place is protected by the passcode ${fields[1
 info about the user here: ${fields[4]}"
   done
 fi
-

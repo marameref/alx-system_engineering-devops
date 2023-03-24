@@ -1,1 +1,1 @@
-# Solutions to tasks on Configuration management
+# Solutions to tasks on Configuration Management (Automation) with Puppet

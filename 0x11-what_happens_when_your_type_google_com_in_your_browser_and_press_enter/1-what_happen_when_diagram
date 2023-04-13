@@ -1,0 +1,48 @@
+here's a schema that illustrates the flow of the request when you type https://www.google.com in your browser and press Enter:
+
+          +-----------------+
+          |     Browser     |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          | DNS Resolution  |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          |     TCP/IP      |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          |    HTTPS/SSL    |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          |   Load Balancer |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          |     Firewall    |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          |     Web Server  |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          | Application     |
+          |     Server      |
+          +-----------------+
+                    |
+                    v
+          +-----------------+
+          |     Database    |
+          +-----------------+
+
+The above schema shows the sequence of events that occur as the browser sends a request to the server and receives a response. Each step in the process is essential to ensure that the request is processed correctly and that the response is sent back securely to the browser.

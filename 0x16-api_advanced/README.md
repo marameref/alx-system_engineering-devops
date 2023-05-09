@@ -1,5 +1,5 @@
-## Solutions to tasks on 0x16. API advanced
+## Soultions to 0x16. API advanced
 - Python
-- Api
 - Scripting
 - Backend
+- Api

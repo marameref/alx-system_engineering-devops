@@ -33,3 +33,5 @@ Incident Escalation: The incident was initially handled by the operations team, 
 -	Implement additional automated tests to detect memory leaks.
 -	Update monitoring tools to include more granular resource usage data.
 -	Provide additional training for operations team members on troubleshooting web application issues.
+
+you can check out my blogpost on https://medium.com/@marameref/0x19-postmortem-an-alx-software-engineering-task-5364fc88d67b for more details
